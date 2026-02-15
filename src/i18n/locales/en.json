@@ -6,6 +6,18 @@
       "title": "AI & Automation",
       "description": "Enterprise-grade AI solutions and workflow automation to streamline your operations and increase efficiency."
     },
+    "ai_receptionist": {
+      "title": "AI Receptionist",
+      "description": "24/7 bilingual voice assistant that answers calls, qualifies leads, and books appointments automatically. Never miss a customer again."
+    },
+    "voice_ai": {
+      "title": "Voice AI Solutions",
+      "description": "Custom voice agents powered by LiveKit for real-time conversations. Perfect for customer support, sales, and booking systems."
+    },
+    "whatsapp_automation": {
+      "title": "WhatsApp Automation",
+      "description": "Intelligent WhatsApp bots for lead generation, customer support, and automated follow-ups. Integrate with your CRM seamlessly."
+    },
     "custom_development": {
       "title": "Custom Development",
       "description": "Bespoke software development tailored to your specific requirements and business objectives."
@@ -13,14 +25,6 @@
     "workflow_optimization": {
       "title": "Workflow Optimization",
       "description": "Streamline your processes with intelligent automation and optimization strategies."
-    },
-    "data_analytics": {
-      "title": "Data Analytics",
-      "description": "Transform raw data into actionable insights with advanced analytics and visualization."
-    },
-    "security": {
-      "title": "Security Solutions",
-      "description": "Enterprise security implementation and compliance management for data protection."
     },
     "consulting": {
       "title": "Consulting",
@@ -31,20 +35,67 @@
     "header": "Our Portfolio",
     "subheader": "Showcase of our successful projects and case studies",
     "project1": {
-      "title": "Enterprise AI System",
-      "description": "Large-scale enterprise AI platform processing millions of transactions daily."
+      "title": "Real Estate AI Receptionist",
+      "description": "24/7 voice assistant for real estate agencies. Handles property inquiries, qualifies buyers, and schedules viewings automatically."
     },
     "project2": {
-      "title": "Workflow Automation Platform",
-      "description": "Automated business process management system reducing manual work by 80%."
+      "title": "Car Showroom WhatsApp Bot",
+      "description": "WhatsApp automation for car dealership. Answers inquiries 24/7, schedules test drives, and captures leads automatically."
     },
     "project3": {
-      "title": "Data Analytics Dashboard",
-      "description": "Real-time analytics dashboard providing insights across business operations."
+      "title": "Content Automation Engine",
+      "description": "Multi-platform content creation and publishing system. Generates and posts content to 6+ platforms automatically."
     },
     "project4": {
-      "title": "Mobile Application",
-      "description": "Cross-platform mobile app with advanced features and seamless user experience."
+      "title": "Medical Clinic Booking Bot",
+      "description": "AI-powered appointment booking system for medical clinics. Reduces no-shows by 40% with automated reminders."
     }
+  },
+  "pricing": {
+    "header": "Simple, Transparent Pricing",
+    "subheader": "Choose the plan that fits your business needs",
+    "standard": {
+      "name": "Standard",
+      "price": "$500",
+      "period": "/month",
+      "features": [
+        "Up to 500 minutes/month",
+        "Bilingual support (Arabic/English)",
+        "Lead capture & qualification",
+        "Email notifications",
+        "Basic CRM integration"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$800",
+      "period": "/month",
+      "features": [
+        "Up to 1,200 minutes/month",
+        "Everything in Standard",
+        "Advanced scheduling",
+        "Full CRM integration",
+        "Priority support",
+        "Custom voice training"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "",
+      "features": [
+        "Unlimited minutes",
+        "Everything in Professional",
+        "Multi-location support",
+        "Custom integrations",
+        "Dedicated account manager",
+        "SLA guarantee"
+      ]
+    }
+  },
+  "cta": {
+    "header": "Ready to Transform Your Business?",
+    "subheader": "Get started with a free demo today",
+    "button": "Book Your Free Demo"
   }
 }
